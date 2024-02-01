@@ -1,0 +1,44 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: EnumMagic
+  name: EnumMagic
+  href: api/EnumMagic.html
+  commentId: N:EnumMagic
+  fullName: EnumMagic
+  nameWithType: EnumMagic
+- uid: EnumMagic.EnumerableExtensions
+  name: EnumerableExtensions
+  href: api/EnumMagic.EnumerableExtensions.html
+  commentId: T:EnumMagic.EnumerableExtensions
+  fullName: EnumMagic.EnumerableExtensions
+  nameWithType: EnumerableExtensions
+- uid: EnumMagic.EnumerableExtensions.GetElementFromIndex(System.Collections.IEnumerable,System.Int32)
+  name: GetElementFromIndex(IEnumerable, int)
+  href: api/EnumMagic.EnumerableExtensions.html#EnumMagic_EnumerableExtensions_GetElementFromIndex_System_Collections_IEnumerable_System_Int32_
+  commentId: M:EnumMagic.EnumerableExtensions.GetElementFromIndex(System.Collections.IEnumerable,System.Int32)
+  name.vb: GetElementFromIndex(IEnumerable, Integer)
+  fullName: EnumMagic.EnumerableExtensions.GetElementFromIndex(System.Collections.IEnumerable, int)
+  fullName.vb: EnumMagic.EnumerableExtensions.GetElementFromIndex(System.Collections.IEnumerable, Integer)
+  nameWithType: EnumerableExtensions.GetElementFromIndex(IEnumerable, int)
+  nameWithType.vb: EnumerableExtensions.GetElementFromIndex(IEnumerable, Integer)
+- uid: EnumMagic.EnumerableExtensions.GetElementFromIndex*
+  name: GetElementFromIndex
+  href: api/EnumMagic.EnumerableExtensions.html#EnumMagic_EnumerableExtensions_GetElementFromIndex_
+  commentId: Overload:EnumMagic.EnumerableExtensions.GetElementFromIndex
+  isSpec: "True"
+  fullName: EnumMagic.EnumerableExtensions.GetElementFromIndex
+  nameWithType: EnumerableExtensions.GetElementFromIndex
+- uid: EnumMagic.EnumerableExtensions.Length(System.Collections.IEnumerable)
+  name: Length(IEnumerable)
+  href: api/EnumMagic.EnumerableExtensions.html#EnumMagic_EnumerableExtensions_Length_System_Collections_IEnumerable_
+  commentId: M:EnumMagic.EnumerableExtensions.Length(System.Collections.IEnumerable)
+  fullName: EnumMagic.EnumerableExtensions.Length(System.Collections.IEnumerable)
+  nameWithType: EnumerableExtensions.Length(IEnumerable)
+- uid: EnumMagic.EnumerableExtensions.Length*
+  name: Length
+  href: api/EnumMagic.EnumerableExtensions.html#EnumMagic_EnumerableExtensions_Length_
+  commentId: Overload:EnumMagic.EnumerableExtensions.Length
+  isSpec: "True"
+  fullName: EnumMagic.EnumerableExtensions.Length
+  nameWithType: EnumerableExtensions.Length

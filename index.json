@@ -1,0 +1,17 @@
+{
+  "api/EnumMagic.EnumerableExtensions.html": {
+    "href": "api/EnumMagic.EnumerableExtensions.html",
+    "title": "Class EnumerableExtensions | EnumMagic API - Aptivi",
+    "keywords": "Class EnumerableExtensions Extensions class for non-generic IEnumerable instances. Inheritance object EnumerableExtensions Namespace: EnumMagic Assembly: EnumMagic.dll Syntax public static class EnumerableExtensions Methods | Edit this page View Source GetElementFromIndex(IEnumerable, int) Gets an element from the index Declaration public static object GetElementFromIndex(this IEnumerable enumerable, int index) Parameters Type Name Description IEnumerable enumerable The target enumerable to get an element int index Zero-based index number of an element Returns Type Description object An element from this enumerable | Edit this page View Source Length(IEnumerable) Counts the elements found in this enumerable Declaration public static int Length(this IEnumerable enumerable) Parameters Type Name Description IEnumerable enumerable The target enumerable to count its elements Returns Type Description int A number of elements"
+  },
+  "api/EnumMagic.html": {
+    "href": "api/EnumMagic.html",
+    "title": "Namespace EnumMagic | EnumMagic API - Aptivi",
+    "keywords": "Namespace EnumMagic Classes EnumerableExtensions Extensions class for non-generic IEnumerable instances."
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "| EnumMagic API - Aptivi",
+    "keywords": "What is EnumMagic? EnumMagic is a library that serves as a collection of extensions for IEnumerables. They allow you to perform magic on enumerables, such as getting the count of elements in non-generic enumerables. What is this web page? This webpage is an API documentation for mod developers to be used as reference. It constantly gets updated as we push the updates to the main and servicing versions of this project. If you still intend to use a documentation specific to your preferred version of EnumMagic, you may refer to the releases page of the project and download the attached <version>-doc.rar file. To get started using the documentation, select API Documentation from the top menu and select a namespace to get a clear overview of the API. Feedback If you wish to leave feedback to us about this API reference website, use the issue tracker of the project. If you wish to contribute to the documentation of the API, go to the project source code and make your improvements there on a draft Pull Request; we don't support override files that are made by clicking on Improve this doc. Any meaningful contributions are welcome. Copyright (c) 2022 Aptivi. All rights reserved."
+  }
+}
