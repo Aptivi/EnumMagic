@@ -1,0 +1,51 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0</TargetFrameworks>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <IncludeSymbols>True</IncludeSymbols>
+    <Version>0.1.0</Version>
+    <Authors>Aptivi</Authors>
+    <Company>Aptivi Corp.</Company>
+    <Description>A collection of tools that provide you magic tricks on IEnumerable objects.</Description>
+    <Copyright>Copyright (c) 2024 Aptivi.</Copyright>
+    <PackageProjectUrl>https://github.com/Aptivi/EnumMagic</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Aptivi/EnumMagic</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>dictionary;api;free;csharp;visualbasic;word;meaning;definition;text;tools;library</PackageTags>
+    <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <PackageVersion>0.1.0</PackageVersion>
+    <PackageIcon>OfficialAppIcon-EnumMagic-512.png</PackageIcon>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageId>EnumMagic</PackageId>
+    <LangVersion>latest</LangVersion>
+    <SignAssembly>True</SignAssembly>
+    <AssemblyOriginatorKeyFile>..\aptivi_snk.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <PropertyGroup>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <EmbedUntrackedSources>true</EmbedUntrackedSources>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.SourceLink.GitHub" Version="8.0.0" PrivateAssets="All" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="OfficialAppIcon-EnumMagic-512.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
