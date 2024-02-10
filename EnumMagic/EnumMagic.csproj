@@ -5,7 +5,7 @@
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <IncludeSymbols>True</IncludeSymbols>
-    <Version>0.1.0</Version>
+    <Version>0.1.0.1</Version>
     <Authors>Aptivi</Authors>
     <Company>Aptivi Corp.</Company>
     <Description>A collection of tools that provide you magic tricks on IEnumerable objects.</Description>
@@ -16,7 +16,7 @@
     <PackageTags>dictionary;api;free;csharp;visualbasic;word;meaning;definition;text;tools;library</PackageTags>
     <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
-    <PackageVersion>0.1.0</PackageVersion>
+    <PackageVersion>0.1.0.1</PackageVersion>
     <PackageIcon>OfficialAppIcon-EnumMagic-512.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageId>EnumMagic</PackageId>
